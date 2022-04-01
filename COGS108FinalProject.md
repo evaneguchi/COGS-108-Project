@@ -1,11 +1,4 @@
----
-title: COGS 108 Final - Alcohol Consumption and University Reputation
-author: Evan Eguchi
-date: '2022-02-08'
-tags:
-  - another tag
-  - one tag
----
+# COGS 108 Final - Alcohol Consumption and University Reputation
 
 ## Overview
 
