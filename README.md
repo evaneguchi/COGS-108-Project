@@ -1,0 +1,3 @@
+# COGS-108-Project
+
+COGS 108 shifted from the previous, broader Python-based courses into a project-based class dedicated to analyses in data science. Focusing on a linear regression analysis through the use of the statsmodel api (OLS) and other relevant Python packages learned in the COGS 108 course, we aimed to identify whether a correlation existed between the rate of alcohol consumption and a University’s reputation score. Although more data and the specificity of the data could be improved, the overall process of this project opened the door to the power and process of regression analysis.
